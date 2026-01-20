@@ -274,12 +274,12 @@ h3 {
   display: flex;
   align-items: center;
   gap: 25px;
-  padding: 40px;
+  padding: 20px;
 
   border-radius: 30px;
   background-color: #250d44;
   max-width: 1200px;
-  min-height: 280px;
+  min-height: 300px;
   margin: 0 auto;
 }
 .hostpic {
@@ -473,15 +473,13 @@ footer p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 20px;
-    max-height: 450px;
-    padding: 20px;
-    overflow: hidden;
+
+    min-height: 600px;
   }
   .hostpic {
     width: 150px;
     height: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     transform: translateX(-20px);
   }
 
