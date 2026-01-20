@@ -476,6 +476,7 @@ footer p {
     gap: 20px;
     height: 450px;
     padding: 20px;
+    overflow: hidden;
   }
   .hostpic {
     width: 150px;
