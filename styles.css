@@ -279,7 +279,7 @@ h3 {
   border-radius: 30px;
   background-color: #250d44;
   max-width: 1200px;
-  height: 280px;
+  min-height: 280px;
   margin: 0 auto;
 }
 .hostpic {
@@ -474,7 +474,7 @@ footer p {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    height: 450px;
+    max-height: 450px;
     padding: 20px;
     overflow: hidden;
   }
