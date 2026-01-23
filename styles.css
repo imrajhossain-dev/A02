@@ -176,6 +176,7 @@ nav img {
 #why-us {
   background-color: #230e3d;
   width: 100%;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
 }
